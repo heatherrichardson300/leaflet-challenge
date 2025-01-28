@@ -20,4 +20,4 @@ Check out my [earthquake map visualization](https://yourusername.github.io/yourr
 
 or
 
-Jump to the [Data Sources](#data-sources) section
+Jump to the [Visualization](#Leaflet-Part-1/index.html) section
