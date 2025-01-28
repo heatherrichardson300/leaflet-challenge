@@ -15,3 +15,9 @@ Using **Leaflet.js**, the visualization plots earthquake locations, with marker 
 - **Depth-Based Coloring**: Colors indicate earthquake depth, with darker colors for greater depths.
 - **Information Popups**: Clickable markers show detailed earthquake information (e.g., magnitude, location, depth).
 - **Custom Legend**: Provides context for the depth-based color coding.
+- 
+Check out my [earthquake map visualization](https://yourusername.github.io/yourrepository)
+
+or
+
+Jump to the [Data Sources](#data-sources) section
