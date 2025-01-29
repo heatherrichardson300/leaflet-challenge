@@ -6,7 +6,7 @@ This project visualizes real-time earthquake data provided by the **United State
 
 Using **Leaflet.js**, the visualization plots earthquake locations, with marker sizes based on magnitude and colors representing depth, allowing for easy interpretation of the data.
 
-[Dashboard Link] (https://heatherrichardson300.github.io/leaflet-challenge/)
+[Dashboard Link](https://heatherrichardson300.github.io/leaflet-challenge/)
 
 ---
 
